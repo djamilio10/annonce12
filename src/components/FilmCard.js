@@ -1,5 +1,5 @@
 import React from "react";
-
+// definition des cartes du style et de la place de chaque partie
 const FilmCard = ({ titre, description, poste, note }) => {
   return (
     <div class="relative flex w-[80%] ml-[70px] p-2 flex-col rounded-xl bg-black bg-clip-border text-white shadow-md cardoo">
