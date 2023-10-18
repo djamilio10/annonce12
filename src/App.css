@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.cardoo {
+    background-color: rgb(95, 92, 92);
+    margin-top: 10px;
+    min-height: 100px;
+  }
+  
+  .cardoo .block {
+    color: white;
+  }
+  
+  .cardoo:hover {
+    transform: scale(1.1);
+  }
+  .des {
+    color: rgb(179, 172, 172);
+    min-height: 100px;
+  }
+
+  body {
+    background: url(https://img.freepik.com/photos-gratuite/resume-fond-cubes-noirs_1123-401.jpg?size=626&ext=jpg&ga=GA1.1.898960204.1697549542&semt=ais);
+  }
+
+  .bas {
+    border: 2px solid rgb(123, 121, 121);
+    border-radius: 120px;
+    background: rgb(156, 154, 154);
+    width: 55%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+    
+
+  }
+  
+  .submit:hover{
+color: rgba(7, 69, 227, 0.535);
+opacity: 100;
+transform: scale(1.1);
+border-radius: 10px;
+  }
+  input[type="search"] {
+    width: 120%;
+    margin-top: 20px;
+  }
+  button:hover {
+color: blue;
+  }
