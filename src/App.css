@@ -17,7 +17,7 @@
     transform: scale(1.1);
   }
   .des {
-    color: rgb(179, 172, 172);
+    color: white;
     min-height: 100px;
   }
 
@@ -51,3 +51,27 @@ border-radius: 10px;
   button:hover {
 color: blue;
   }
+.ajout {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.homedes{
+    color: grey;
+}
+
+.fontu {
+    min-height: 100px;
+    background: black;
+    color: rgb(176, 171, 171);
+}
+.voulou {
+  color: white;
+  font-size: 1.1rem;
+  text-decoration: underline;
+}
+.voulou2{
+  font-size: 1.1rem;
+  color: white;
+  text-decoration: underline;
+}

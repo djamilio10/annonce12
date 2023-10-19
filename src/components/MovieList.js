@@ -6,6 +6,8 @@ const Movie = [
     poste:
       "https://img.freepik.com/photos-premium/costume-araignee-pour-homme-portant-costume-metal_839976-2995.jpg?size=626&ext=jpg&ga=GA1.1.898960204.1697549542&semt=sph",
     note: 5,
+    id: "1",
+    trailler: "https://www.youtube.com/embed/G1Na0rKWY74",
   },
   {
     titre: "Warcraft : Le commencement (2016)",
@@ -14,6 +16,8 @@ const Movie = [
     poste:
       "https://img.freepik.com/photos-gratuite/guerriers-vikings-aux-yeux-brulants-ai-generative_8829-2911.jpg?size=626&ext=jpg&ga=GA1.1.898960204.1697549542&semt=sph",
     note: 4,
+    id: "2",
+    trailler: "https://www.youtube.com/embed/d7THxrD72eE?si=xsxF64pKbtLURqT8",
   },
   {
     titre: "Renfield (2023)",
@@ -21,6 +25,8 @@ const Movie = [
     poste:
       "https://re.french-stream.gg/red.php?src=https://image.tmdb.org/t/p/w300/jG83l0tDwoQj3hBAioIsJ5rTPHw.jpg&.webp",
     note: 4,
+    id: "3",
+    trailler: "https://www.youtube.com/embed/ZPyj1D046zw?si=oonKmdjNIORBqlCd",
   },
   {
     titre: "Tyler Rake 2 (2023)",
@@ -28,6 +34,8 @@ const Movie = [
     poste:
       "https://re.french-stream.gg/red.php?src=https://image.tmdb.org/t/p/w300/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg&.webp",
     note: 5,
+    id: "4",
+    trailler: "https://www.youtube.com/embed/Lc2mwVUuGn8?si=9gDqYRAdkB2ru2Pz",
   },
   {
     titre: "La Petite Sirène (2023)",
@@ -35,6 +43,8 @@ const Movie = [
     poste:
       "https://re.french-stream.gg/red.php?src=https://image.tmdb.org/t/p/w300/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg&.webp",
     note: 1,
+    id: "5",
+    trailler: "https://www.youtube.com/embed/J5VvzJmiqJc?si=UHR9r7wJVwCA_2cW",
   },
   {
     titre: "Alibi.com 2 (2023)",
@@ -42,6 +52,8 @@ const Movie = [
     poste:
       "https://re.french-stream.gg/red.php?src=https://image.tmdb.org/t/p/w300/9gteYoeW0wOvYHnnvXJpq0RiGV8.jpg&.webp",
     note: 3,
+    id: "6",
+    trailler: "https://www.youtube.com/embed/LXUESg1xI-M?si=NgJ1pHXN0KNOvu3z",
   },
   {
     titre: "Fast & Furious X (2023)",
@@ -49,6 +61,8 @@ const Movie = [
     poste:
       "https://re.french-stream.gg/red.php?src=https://image.tmdb.org/t/p/w300/fiVW06jE7z9YnO4trhaMEdclSiC.jpg&.webp",
     note: 5,
+    id: "7",
+    trailler: "https://www.youtube.com/embed/-WjVobqh-oU?si=LBIDF5aRJ7Lpo9jA",
   },
   {
     titre: "Blue Beetle (2023)",
@@ -56,6 +70,8 @@ const Movie = [
     poste:
       "https://re.french-stream.gg/red.php?src=https://image.tmdb.org/t/p/w300/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg&.webp",
     note: 4,
+    id: "8",
+    trailler: "https://www.youtube.com/embed/-OOAZLZeZBc?si=dSU1v3ECQqPBecaA",
   },
   {
     titre: "La Nonne La Malédiction de Sainte-Lucie (2023)",
@@ -63,6 +79,8 @@ const Movie = [
     poste:
       "https://re.french-stream.gg/red.php?src=https://image.tmdb.org/t/p/w300/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg&.webp",
     note: 2,
+    id: "9",
+    trailler: "https://www.youtube.com/embed/TM80MlTfCcc?si=YEi8HofYThugPH37",
   },
 ];
 export default Movie;
